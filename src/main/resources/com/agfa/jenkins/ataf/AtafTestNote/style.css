@@ -1,0 +1,8 @@
+a.ataf-test-failure {
+    font-weight: bold;
+    color: red; important
+}
+
+a.ataf-test-success {
+    color: #204A87; important
+}
